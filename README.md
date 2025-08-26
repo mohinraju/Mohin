@@ -31,7 +31,7 @@
 ### 🧠 Brain Tumor Detection Web App  
 > Detects brain tumors from MRI scans using a neural network with 90%+ accuracy.  
 **Tech Used:** Python, MongoDB, HTML, CSS, JavaScript, Vision Transformer  
-[🔗 Project Link](#)
+[🔗 https://github.com/mohinraju/Neural-Network-Powered-Brain-Detection-using-Machine-Learning](#)
 
 ---
 
