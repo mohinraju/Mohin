@@ -38,15 +38,19 @@
 ### 📱 EMI Calculator App  
 > Android app to calculate monthly EMI for home or car financing.  
 **Tech Used:** Kotlin, Java, XML  
-[🔗 Project Link](#)
+[🔗 Project Link](https://github.com/mohinraju/EMI-Calculator)
 
 ---
 
-### 🌐 Language Learning Website  
+### 🌐 Quartet- A Language Learning Website  
 > Multi-page website with quiz-based learning system.  
 **Tech Used:** HTML, CSS, JavaScript  
-[🔗 Project Link](#)
-
+[🔗 Project Link](https://github.com/mohinraju/Quartet)
+> 
+### 🌐 Assignment project from Janitri Innovations Private Limited  
+> Pragnancy Tracker.  
+**Tech Used:** Kotlin,Jetpack Compose, MVVM, Room, and WorkManager  
+[🔗 Project Link]([https://github.com/mohinraju/Quartet](https://github.com/mohinraju/Assignment-project-Janitri-Innovations-Private-Limited-))
 ---
 
 ## 📊 GitHub Analytics
