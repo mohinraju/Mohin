@@ -56,9 +56,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohinraju&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinraju&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mohinraju&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="170" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohinraju&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohinraju&theme=radical&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=mohinraju&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
 
 ---
 
