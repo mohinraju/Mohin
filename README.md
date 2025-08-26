@@ -50,7 +50,7 @@
 ### 🌐 Assignment project from Janitri Innovations Private Limited  
 > Pragnancy Tracker- tracks pregnancy vitals like blood pressure, heart rate, weight, and baby kicks.  
 **Tech Used:** Kotlin,Jetpack Compose, MVVM, Room, and WorkManager  
-[🔗 Project Link](https://github.com/mohinraju/Assignment-project-Janitri-Innovations-Private-Limited-](https://github.com/mohinraju/Assignment-project-Janitri-Innovations-Private-Limited-))
+[🔗 Project Link]( https://github.com/mohinraju/Assignment-project-Janitri-Innovations-Private-Limited-](https://github.com/mohinraju/Assignment-project-Janitri-Innovations-Private-Limited- )
 ---
 
 ## 📊 GitHub Analytics
