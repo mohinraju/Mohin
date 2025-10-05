@@ -31,28 +31,31 @@
 ### 🧠 Brain Tumor Detection Web App  
 > Detects brain tumors from MRI scans using a neural network with 90%+ accuracy.  
 **Tech Used:** Python, MongoDB, HTML, CSS, JavaScript, Vision Transformer <br/>
-> [🔗 Resources Link](https://github.com/mohinraju/Neural-Network-Powered-Brain-Detection-using-Machine-Learning)   <br/>
-[🔗 Project Link](https://mohinraju.github.io/Neural-Network-Powered-Brain-Detection-using-Machine-Learning/)
+[🔗 Project Link](https://mohinraju.github.io/Neural-Network-Powered-Brain-Detection-using-Machine-Learning/) <br/>
+> [🔗 Resources Link](https://github.com/mohinraju/Neural-Network-Powered-Brain-Detection-using-Machine-Learning)  
 
-
----
-
-### 📱 EMI Calculator App  
-> Android app to calculate monthly EMI for home or car financing.  
-**Tech Used:** Kotlin, Java, XML  
-[🔗 Project Link](https://github.com/mohinraju/EMI-Calculator)
 
 ---
 
 ### 🌐 Quartet- A Language Learning Website  
 > Multi-page website with quiz-based learning system.  
-**Tech Used:** HTML, CSS, JavaScript  
-[🔗 Project Link](https://github.com/mohinraju/Quartet)
+**Tech Used:** HTML, CSS, JavaScript <br/>
+[🔗 Project Link](https://mohinraju.github.io/Quartet/)  <br/>
+[🔗 Resource Link](https://github.com/mohinraju/Quartet)
+> 
+---
+
+### 📱 EMI Calculator App  
+> Android app to calculate monthly EMI for home or car financing.  
+**Tech Used:** Kotlin, Java, XML  
+[🔗 Resource Link](https://github.com/mohinraju/EMI-Calculator)
+
+
 > 
 ### 🌐 Assignment project from Janitri Innovations Private Limited  
 > Pragnancy Tracker- tracks pregnancy vitals like blood pressure, heart rate, weight, and baby kicks.  
 **Tech Used:** Kotlin,Jetpack Compose, MVVM, Room, and WorkManager  
-[🔗 Project Link](https://github.com/mohinraju/Janitri-Innovations-Private-Limited)
+[🔗 Resource Link](https://github.com/mohinraju/Janitri-Innovations-Private-Limited)
 ---
 
 ## 📊 GitHub Analytics
