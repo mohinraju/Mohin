@@ -149,8 +149,15 @@ Vemana Institute of Technology
 
 ## 🏆 Publication
 
-📄 *Neural Network-Powered Brain Tumor Detection using Machine Learning*  
-Published in **IJSART – May 2025**  
+📄 **Neural Network-Powered Brain Tumor Detection using Machine Learning**  
+Published in **IJSART – May 2025**
+
+<div align="center">
+<a href="https://ijsart.com/neural-network-powered-brain-tumor-detection-using-machine-learning-103673" target="_blank">
+  <img src="https://img.shields.io/badge/Read%20Publication-4F8EF7?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+</div>
+
 
 ---
 
