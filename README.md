@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm <span style="color:#4F8EF7;">Mohin R Pinjar</span></h1>
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh5cDkwMGpqeWpra2gzd3l1aGJsbWszanJ6MWRkazJkODI5MnhlciZlcD12MV9naWZzX3NlYXJjaCZjdT1n/zOvBKUUEERdNm/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk3bGdyYWozN2NtMjg4YW5xMm52bHF1ZDNyaDhrdWIwZXc5MmJtYSZlcD12MV9naWZzX3NlYXJjaCZjdT1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="700">
 </p>
 
 
