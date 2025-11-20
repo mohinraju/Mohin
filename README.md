@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋 I'm <span style="color:#4F8EF7;">Mohin R Pinjar</span></h1>
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
-<<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/cool-developer.gif" width="700" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E3ZWl6aWU3cXg4c2U5OHM3Y2UycGtvem1mdjl4cWlsNXRwbWtuciZlcD12MV9naWZzX3NlYXJjaCZjdT1n/HwBlFQZFcAoUcPHZdX/giphy.gif" width="700">
 </p>
 
 
