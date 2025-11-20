@@ -22,29 +22,39 @@ about full-stack development and AI-driven problem solving.
 
 ---
 
-## 🚀 Tech Stack (From Resume Only)
+## 🚀 Tech Stack
 
 <div align="center">
 
-### 🧑‍💻 Programming Languages  
-**Java | JavaScript | Python**
-
-### 🎨 Frontend  
-**HTML | CSS | React.js**
-
-### 🏗 Backend  
-**Spring | Hibernate**
-
-### 🗄 Databases  
-**MySQL | Oracle**
-
-### 🧠 Core Concepts  
-**Object-Oriented Programming (OOPs)**
-
-### 🛠 Tools & IDEs  
-**Git | GitHub | Eclipse | VS Code | MySQL Workbench**
+<table>
+  <tr>
+    <td><strong>🧑‍💻 Programming Languages</strong></td>
+    <td>Java • JavaScript • Python</td>
+  </tr>
+  <tr>
+    <td><strong>🎨 Frontend</strong></td>
+    <td>HTML • CSS • React.js</td>
+  </tr>
+  <tr>
+    <td><strong>🏗 Backend</strong></td>
+    <td>Spring • Hibernate</td>
+  </tr>
+  <tr>
+    <td><strong>🗄 Databases</strong></td>
+    <td>MySQL • Oracle</td>
+  </tr>
+  <tr>
+    <td><strong>🧠 Core Concepts</strong></td>
+    <td>Object-Oriented Programming (OOPs)</td>
+  </tr>
+  <tr>
+    <td><strong>🛠 Tools & IDEs</strong></td>
+    <td>Git • GitHub • Eclipse • VS Code • MySQL Workbench</td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
