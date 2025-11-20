@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋 I'm <span style="color:#4F8EF7;">Mohin R Pinjar</span></h1>
-<h3 align="center">Aspiring Java Full Stack Developer | ML Enthusiast</h3>
+<h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
@@ -19,7 +19,7 @@ about full-stack development and AI-driven problem solving.
 
 <div align="center">
 
-### ✨ Explore My Complete Work
+### ✨ Explore My Portfolio
 
 <a href="https://mohinraju.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -46,10 +46,6 @@ A showcase of my projects, skills, and professional journey.
 
 <a href="https://github.com/mohinraju/Mohin">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Location-Bengaluru-4F8EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
 
 </div>
