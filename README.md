@@ -13,14 +13,46 @@
 Information Science graduate pursuing **Java Full Stack Development**, with strong **Core Java**,  
 **OOPs**, and hands-on experience building web applications. Enthusiastic learner passionate  
 about full-stack development and AI-driven problem solving.
-
-📍 Bengaluru, India  
-📧 **Email:** mohinpinjar@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/mohinrpinjar  
-🐙 **GitHub:** github.com/mohinraju/Mohin  
-🌐 **Portfolio:** https://mohinraju.github.io/portfolio/
-
 ---
+
+## 🎨 Portfolio
+
+<div align="center">
+
+### ✨ Explore My Complete Work
+
+<a href="https://mohinraju.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Visit My Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<p style="margin-top:10px;">
+A showcase of my projects, skills, and professional journey.
+</p>
+
+</div>
+
+
+## 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:mohinpinjar@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohinrpinjar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/mohinraju/Mohin">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Location-Bengaluru-4F8EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</a>
+
+</div>
 
 ## 🚀 Tech Stack
 
