@@ -3,8 +3,9 @@
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/gm14v2L/futuristic-dev.gif" width="800" alt="AI Developer Banner"/>
+  <img src="https://i.ibb.co/7zV3p4S/neon-coder.gif" width="800" alt="Neon Coding Banner"/>
 </p>
+
 
 ---
 
