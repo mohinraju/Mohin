@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+  <img src="https://i.ibb.co/gm14v2L/futuristic-dev.gif" width="800" alt="AI Developer Banner"/>
 </p>
 
 ---
