@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋 I'm <span style="color:#4F8EF7;">Mohin R Pinjar</span></h1>
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/terminal.gif" width="700" />
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/cool-developer.gif" width="700" />
 </p>
+
 
 
 ---
