@@ -3,9 +3,8 @@
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1qcGF6Ymw5N2dmem1ycmNnNDR1dzZyMGpxMnFtY3BoYTR5OHdnayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="700">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW1rYXBkMWNjYThqOXU4M2FvNWRhaHVqOTB6bjhkeWlucjI5NmlyOCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/3oKIPEqDGUULpEU0aQ/giphy.gif" width="700">
 </p>
-
 
 
 ---
