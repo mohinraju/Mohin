@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/4j3vQGq/dev-banner-clean.gif" width="800" alt="Developer Banner"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/terminal.gif" width="700" />
 </p>
 
 
